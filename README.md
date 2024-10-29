@@ -17,14 +17,13 @@ Welcome to the **Java CLI To-Do Application Challenge**! This project invites yo
   - [Project Structure](#project-structure)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Reference Blog](#reference-blog)
 
 ---
 
 ## Overview
 
-The Java CLI To-Do Application Challenge is designed to help you enhance your Java skills while building a practical application. You'll work with basic CRUD (Create, Read, Update, Delete) operations for task management, leveraging Java’s object-oriented programming features and file handling capabilities for data persistence.
+This challenge invites you to build a CLI-based To-Do application in Java, designed to enhance your understanding of essential frontend development challenges. Through this project, you'll explore key concepts such as UI re-rendering, data binding, and state management. By tackling these challenges, you will gain valuable insights into the intricacies of real-world frontend development
 
 ## Challenge Objectives
 
@@ -116,13 +115,9 @@ Follow the prompts for each command to complete the challenge and manage your ta
 
 This challenge is designed for you to complete, but contributions and suggestions are always welcome! If you have ideas for additional features or improvements, feel free to fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Reference Blog
 
-This challenge is part of the explanation in my blog. Check it out for more insights and tips: [Your Blog Title Here](#).
+This challenge is part of the explanation in my blog. Check it out for more insights and tips: [](#).
 
 ---
 

@@ -60,15 +60,16 @@ public class Home extends Page {
         while (!goBack) {
             try {
                 int choice = Integer.parseInt(sc.nextLine());
+                //TODO: implement these funtionalities 
                 switch (choice) {
                     case 1:
                         System.out.println("Add");
                         break;
                     case 2:
-                        System.out.println("Add");
+                        System.out.println("Delete");
                         break;
                     case 3:
-                        System.out.println("Add");
+                        System.out.println("MOdify");
                         break;
                     case 4:
                         System.out.println("Saved and Exiting ...");
