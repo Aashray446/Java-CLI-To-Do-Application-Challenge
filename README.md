@@ -117,7 +117,7 @@ This challenge is designed for you to complete, but contributions and suggestion
 
 ## Reference Blog
 
-This challenge is part of the explanation in my blog. Check it out for more insights and tips: [https://aashrayakatiyar.hashnode.dev/boiling-down-frontend-frameworks-simplifying-the-essentials](#).
+This challenge is part of the explanation in my blog. Check it out for more insights and tips: [LINK](https://aashrayakatiyar.hashnode.dev/boiling-down-frontend-frameworks-simplifying-the-essentials).
 
 ---
 
